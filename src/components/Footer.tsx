@@ -4,7 +4,7 @@ import { SocialMedia } from './SocialMedia';
 export const Footer = () => {
     return(
         <footer id="footer">
-            <div className="container align-center flex-column gap">
+            <div className="container flex align-center flex-column gap">
                 <h2>
                     Henrique Santiago 
                 </h2>

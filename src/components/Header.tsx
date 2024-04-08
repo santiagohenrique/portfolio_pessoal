@@ -3,7 +3,7 @@ import { Navbar } from "./Navbar";
 export const Header = () => {
     return(
         <header id="header">
-            <div className="container justify-between align-center">
+            <div className="container flex justify-between align-center">
                 <h1 className="header-title">
                     <span>&lt; </span> 
                     Henrique Santiago 

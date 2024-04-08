@@ -19,7 +19,7 @@ export const About = () => {
                         <ul>
                             <li>- Estudante de Análise e Desenvolvimento de Sistemas</li>
                             <li>- Focado em desenvolvimento Web</li>
-                            <li>- Experiência com algumas tecnologias, tais como: JavaScript, Java, React, SpringBoot, MySQL, Postgre</li>
+                            <li>- Experiência com algumas tecnologias, tais como: JavaScript, HTML, CSS, Java, React, SpringBoot, MySQL, Postgre, Git</li>
                         </ul>
                     </div>
                     <div className='download-container'>
