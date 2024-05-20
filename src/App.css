@@ -360,6 +360,10 @@ button.download-button:hover, .submit-btn:hover{
     text-align: center;
   }
 
+  .card-title{
+    min-height: 70px;
+  }
+
   #contato form{
     width: 90%;
   }

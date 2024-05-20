@@ -18,10 +18,15 @@ export const Card = ({img, alt, title, deployLink, codeLink}: Props) => {
                         {title}
                     </div>
                     <div className="card-links">
-                        <a href={deployLink} target="_blank">
-                            <span>Ver projeto</span>
-                        </a>
+                        {
+                            deployLink === "#"? <></> : 
+                            <>
+                            <a href={deployLink} target="_blank">
+                                <span>Ver projeto</span>
+                            </a>
                             <span> | </span>
+                            </> 
+                        }
                         <a href={codeLink} target="_blank">
                             <span>Código</span>
                         </a>

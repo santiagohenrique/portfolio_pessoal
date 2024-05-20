@@ -16,7 +16,7 @@ export const About = () => {
                             Oi, meu nome é Henrique Santiago &#128075;
                         </h2>
                         <p className='presentation-subtitle'>
-                            Desenvolvedor de software
+                            Desenvolvedor Web
                         </p>
                         <ul>
                             <li>- Estudante de Análise e Desenvolvimento de Sistemas</li>
